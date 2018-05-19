@@ -1,2 +1,0 @@
-# webcomponent
-Created with CodeSandbox
